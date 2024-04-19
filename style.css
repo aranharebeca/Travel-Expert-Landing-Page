@@ -1,0 +1,41 @@
+*{
+ margin:0;
+ padding:0;
+ box-sizing:border-box;
+}
+span{
+color:#DB2777
+}
+a{
+  font-size:20px;
+  padding:16px;
+  width:700;
+  color:#151718;
+}
+button{
+  font-size:20px;
+  width:202;
+  border-radius:80px;
+  background-color:#DB2777;
+  color:#ffffff;
+  border-color:#DB2777;
+  border-style: solid;
+  border-width:9px;
+}
+buttom:hover{
+  background-color:#DB2777;
+}
+h1{
+  width:700;
+  font-size:64px;
+}
+body{
+  font-family:'Cinzel',sans-serif;
+  background-image:url(https://i.ibb.co/x7SnvsH/background-image.png);
+  background-repeat: no-repeat;
+  text-align:center; 
+  padding: 200px 3.01rem 390px;
+}
+p{
+  font-family:'Intel',sans-serif;
+}
